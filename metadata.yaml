@@ -1,5 +1,8 @@
 _repo: The-Double-Traitor_10534
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -14,6 +17,8 @@ creator:
 description: Oppenheim tells a good story - a little romance, a little adventure -
   turn of the century tales of success and failure, gain and loss. The Double Traitor
   is a spy thriller with an undertone of intrigue. -Amazon.com.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10534#The-Double-Traitor
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
